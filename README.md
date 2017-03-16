@@ -34,6 +34,8 @@
 
 #### WintellectNow
 
+- [JavaScript for C# Programmers](https://www.wintellectnow.com/Videos/Watch?videoId=javascript-for-c-programmers)
+
 
 #### Eduonix
 
